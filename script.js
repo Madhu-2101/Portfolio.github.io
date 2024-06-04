@@ -42,7 +42,7 @@ ScrollReveal().reveal('.home-content h1, .about-img', {origin: 'left'});
 ScrollReveal().reveal('.home-content p, .about-content', {origin: 'right'});
 
 const typed = new Typed('.multiple-text', {
-    strings: ['A Student.', 'A Learner.', 'And Unemployed.'],
+    strings: ['A Student.', 'And Learner.'],
     typeSpeed: 70,
     backSpeed: 70,
     backDelay: 1000,
