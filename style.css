@@ -96,12 +96,6 @@ span{
     line-height: 1.3em;
 }
 
-/* .home-img img{
-    height: 25vw;
-    animation: floatImage 4s ease-in-out infinite;
-    border-radius: 5%;
-} */
-
 .home-img img{
     width: 45vw;
     height: 25vw;
